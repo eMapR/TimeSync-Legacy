@@ -15,7 +15,7 @@ an asset. Please see the [GEE guide on importing shapefiles as assests](https://
  
 ## <a id='step2'></a> 2. Run TimeSync-Legacy Source Data GEE Script
 
-Link to this [GEE script](https://code.earthengine.google.com/164689e462b2dc748ec9d0fd3d9be81a) to download
+Link to this [GEE script](https://code.earthengine.google.com/08c1f1b2372573d570090b3f429912b5) to download
 source data. 
 
 You will need to fill out these variables in the *inputs* section.
@@ -26,6 +26,7 @@ var endYear = 2017;
 var startDay = '06-20';
 var endDay = '09-20';
 var aoi = ee.FeatureCollection('users/emaprlab/timesync_legacy_demo/timesync_legacy_demo_aoi').first().geometry();
+var description = 'timesync_legacy_demo'
 var gDriveFolder = 'timesync_legacy_demo';
 var crs = 'EPSG:5070';
 var affine = [30.0, 0, 15.0, 0, -30.0, 15.0];
