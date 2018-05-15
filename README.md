@@ -39,6 +39,7 @@ var affine = [30.0, 0, 15.0, 0, -30.0, 15.0];
 |startDay|string|the minimum calendar day for the range over which to generate annual image composites
 |endDay|string|the maximum calendar day for the range over which to generate annual image composites
 |aoi|ee.Geometry|the area of interest that will define the area of TimeSync source data to be exported
+|description|string|a file name prefix to describe the output (no spaces)
 |gDriveFolder|string|the name of the Google Drive folder where the exported GEE data should be housed
 |crs|EPSG string|the coordinate reference system you'd like to export the data in formatted as EPSG definition. In the demo we use EPSG:5070 to match USGS NLCD data product projection
 |affine|numeric array|the affine transformation to be applied to the exported data. In the demo we align the outputs to USGS NLCD grid system 
