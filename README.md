@@ -15,7 +15,7 @@ an asset. Please see the [GEE guide on importing shapefiles as assests](https://
  
 ## <a id='step2'></a> 2. Run TimeSync-Legacy Source Data GEE Script
 
-Link to this [GEE script](https://code.earthengine.google.com/08c1f1b2372573d570090b3f429912b5) to download
+Link to this [GEE script](https://code.earthengine.google.com/164689e462b2dc748ec9d0fd3d9be81a) to download
 source data. 
 
 You will need to fill out these variables in the *inputs* section.
