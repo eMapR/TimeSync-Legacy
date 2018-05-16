@@ -1,5 +1,6 @@
 # TimeSync-Legacy
 
+![timesync](https://github.com/eMapR/TimeSync-Legacy/blob/master/imgs/timesync.png)
 
 ## Requirements
 
