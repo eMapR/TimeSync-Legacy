@@ -31,11 +31,11 @@ All version and updates can be viewed in the repository [release](https://github
 ## Steps
 
 [1. Upload a Shapefile to GEE](#step1)
-[<br>2. Run TimeSync-Legacy Source Data GEE Script](#step2)
-[<br>3. Download TimeSync-Legacy Source Data from Google Drive](#step3)
-[<br>4. Run TimeSync-Legacy Source Data Preparation Python Script](#step4)
-[<br>5. Make TimeSync-Legacy Source Image Lists](#step5)
-[<br>6. Create TimeSync-Legacy Project Database](#step6)
+[<br>2. Run Source Data GEE Script](#step2)
+[<br>3. Download Source Data from Google Drive](#step3)
+[<br>4. Run Source Data Preparation Python Script](#step4)
+[<br>5. Make Source Image Lists](#step5)
+[<br>6. Create Project Database](#step6)
 [<br>7. Load Project Database in TimeSync-Legacy](#step7) 
 
 
