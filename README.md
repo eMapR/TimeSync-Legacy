@@ -114,8 +114,8 @@ python tsl_gee_stack_unpacker.py C:\mock\timesync\project\prep C:\mock\timesync\
 2. Open a command prompt and cd to the *TimeSync-Legacy-Package* directory where the `tsl_gee_stack_unpacker.py` script is located. Example:
 
 ```
-cd C:
-\mock\TimeSync-Legacy-Package
+C:
+cd \mock\TimeSync-Legacy-Package
 ```
 
 3. copy and paste the command you wrote in the text editor into the command prompt and hit enter.
@@ -141,8 +141,8 @@ python tsl_image_list_maker.py C:\mock\timesync\project\images
 2. If your command prompt from the previous step is not still open, open a new one and cd to the *TimeSync-Legacy-Package* directory where the `tsl_image_list_maker.py` script is located. Example:
 
 ```
-cd C:
-\mock\TimeSync-Legacy-Package
+C:
+cd \mock\TimeSync-Legacy-Package
 ```
 
 3. copy and paste the command you wrote in the text editor into the command prompt and hit enter.
