@@ -49,7 +49,7 @@ an asset. Please see the [GEE guide on importing shapefiles as assests](https://
 
 Add the eMapR public code repository to your GEE account. Visit this URL: <https://code.earthengine.google.com/?accept_repo=users/emaprlab/public> 
 
-Then link to this [GEE script](https://code.earthengine.google.com/9fb3f332946d437edb411137ceae1415) to download
+Then link to this [GEE script](https://code.earthengine.google.com/9abca702d2d658b31b5d7ee28486c940) to download
 source data. 
 
 You will need to fill out these variables in the *inputs* section.
