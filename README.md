@@ -102,7 +102,7 @@ In this step you'll run the `tsl_gee_stack_unpack.py` script from the command pr
 1. Open a text editor and write the command for executing `tsl_gee_stack_unpack.py`. The usage is:
 
 ```
-tsl_gee_stack_unpacker.py [project prep dir] [project images dir] [filename prefix]`
+tsl_gee_stack_unpacker.py [project prep dir] [project images dir] [filename prefix]
 ```
 
 Here is a mock call:
@@ -129,7 +129,7 @@ In this step you'll create image list files for reflectance and tasselled cap im
 1. Open a text editor and write the command for executing `tsl_image_list_maker.py`. The usage is:
 
 ```
-`tsl_image_list_maker.py` [project images dir]`
+tsl_image_list_maker.py [project images dir]
 ```
 
 Here is a mock call:
@@ -177,12 +177,3 @@ Save the changes.
 Now we'll open the TimeSync-Legacy program and load the database you just setup. Navigate to the *TimeSync-Legacy-Package* directory and open the *tsl_v3.9.8.0* folder. In it you'll find and file called *TimeSync.exe* which will run TimeSync without installation. Double click to open it.
 
 Once it is open, click *File > Open* and then navigate to and select the *.mdb* file you just setup in the previous step. It should load up the plots in left panel and default to loading the first plot's time series image chips and spectral profile.
-
-
-
-
-
-
-
-
-
